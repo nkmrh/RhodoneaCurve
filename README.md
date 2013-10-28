@@ -21,3 +21,7 @@ New Aeon: https://vimeo.com/27654269
 and renderd images.
 
 ![](https://github.com/nkmrh/RhodoneaCurve/raw/master/github-assets/Rhodonea.jpg)
+
+see more high resolution images.
+
+https://github.com/nkmrh/RhodoneaCurve/tree/master/github-assets/origin-size
